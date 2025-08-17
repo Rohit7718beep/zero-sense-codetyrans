@@ -33,7 +33,7 @@ const Index = () => {
         <div className="flex items-center justify-between max-w-6xl mx-auto">
           <div className="space-y-1">
             <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent animate-pulse-chaos">
-              Absolutely Useless App™
+              ZERO SENSE™
             </h1>
             <p className="text-sm text-muted-foreground">
               The most pointless app you'll ever use (and love)
@@ -124,7 +124,7 @@ const Index = () => {
 
       {/* Footer */}
       <div className="text-center p-6 text-xs text-muted-foreground">
-        <p>© 2024 Absolutely Useless App™ - Making the world more pointless, one click at a time</p>
+        <p>© 2025 ZERO SENSE ™ - Making the world more pointless, one click at a time</p>
         <p className="mt-1">No productivity was harmed in the making of this app</p>
       </div>
     </div>
