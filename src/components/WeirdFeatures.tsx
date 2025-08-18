@@ -54,7 +54,7 @@ const WeirdFeatures = () => {
         <Card className="p-6 space-y-4 hover:shadow-playful transition-all duration-300">
           <div className="flex items-center space-x-2">
             <Calculator className="h-6 w-6 text-primary animate-spin-slow" />
-            <h3 className="text-xl font-bold">Useless Calculator</h3>
+            <h3 className="text-xl font-bold">Calculator</h3>
           </div>
           
           <div className="space-y-3">
@@ -94,7 +94,7 @@ const WeirdFeatures = () => {
           
           {isFlashlight && (
             <p className="text-center text-sm animate-wiggle text-black">
-              This is definitely how flashlights work! ✨
+                I AM NOT GONNA TURN IT ON ✨
             </p>
           )}
         </Card>
