@@ -1,6 +1,7 @@
 # Welcome to our CODE SENSE project
 
-
+it can be accesed online by using following link: 
+https://zero-sense-codetyrans.vercel.app/
 
 
 
